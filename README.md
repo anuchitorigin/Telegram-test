@@ -1,6 +1,7 @@
 # Telegram Bot Message Sending - TypeScript
 
 A TypeScript project for testing sending messages to Telegram using the Telegram Bot API.
+Use AI Agents for all coding - Anuchit Butkhunthong
 
 ## Prerequisites
 
